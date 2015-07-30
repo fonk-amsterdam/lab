@@ -1,0 +1,20 @@
+/* 
+Fonk css
+*/
+body {
+	background-image: url("../img/carbon.png");
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Berkshire Swash', cursive;
+	color : white;
+}
+
+.centeredcontainer{
+	width: 250px;
+	padding: auto;
+	margin: auto;
+}
+
+bdo[dir="ltr"] { direction: ltr; unicode-bidi: bidi-override; }
+bdo[dir="rtl"] { direction: rtl; unicode-bidi: bidi-override; }
